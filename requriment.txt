@@ -10,3 +10,4 @@ langchain-core                           0.3.55
 langchain-huggingface                    0.1.2
 langchain-text-splitters                 0.3.8
 langsmith                                0.3.33
+pip install PyMuPDF                      1.18.19
