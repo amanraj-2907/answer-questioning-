@@ -13,7 +13,7 @@ def extract_text_debug(pdf_path):
         lines = text.split('\n')
         
         for line_num, line in enumerate(lines, 1):
-            print(f"  📝 Line {line_num}: {line}")
+            print(f"   Line {line_num}: {line}")
             words = line.split()
             for word in words:
                 print(f"     🔸 Word: {word}")
